@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou IvoCesar!
 
-<!--
-**Ivo-Cesar/Ivo-Cesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software** na Unicesumar, apaixonado por tecnologia, programação e por resolver problemas com código.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Ingressante no curso de Engenharia de Software (2025)
+- 💻 Estudando lógica de programação, Git/GitHub,e desenvolvimento web
+- ⚙️ Interesse em backend, APIs e automação
+- 🌱 Atualmente aprendendo: HTML, CSS, JavaScript
+- ✨ Buscando participar de projetos e contribuir com a comunidade open source
+
+## Ferramentas & Tecnologias
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code)
+
+## Projetos em destaque
+Em breve terei meus primeiros projetos aqui! Enquanto isso, confira meus repositórios e me siga para acompanhar minha evolução.
+
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Ivo Cesar)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/Ivo Cesar)
+
+---
+
+*“A jornada está só começando. Cada linha de código é um passo a mais.”*

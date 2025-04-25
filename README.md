@@ -22,7 +22,7 @@ Em breve terei meus primeiros projetos aqui! Enquanto isso, confira meus reposit
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/IvoLima)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/IvoCesar)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/eu.ivo)
 
 ---
 

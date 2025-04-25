@@ -21,7 +21,7 @@ Sou estudante de **Engenharia de Software** na Unicesumar, apaixonado por tecnol
 Em breve terei meus primeiros projetos aqui! Enquanto isso, confira meus repositórios e me siga para acompanhar minha evolução.
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/IvoLima)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/IvoCesar)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/eu.ivo)
 
 ---

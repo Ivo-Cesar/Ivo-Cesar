@@ -23,6 +23,3 @@ Em breve terei meus primeiros projetos aqui! Enquanto isso, confira meus reposit
 ## Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/eu.ivo)
 
----
-
-*“A jornada está só começando. Cada linha de código é um passo a mais.”*

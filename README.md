@@ -1,37 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Pikachu Animation</title>
-  <style>
-    body {
-      background: #f0f0f0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
+# Pikachu animado!
 
-    .pikachu {
-      width: 200px;
-      animation: bounce 2s infinite;
-    }
+![Pikachu](https://media.giphy.com/media/I3eVhMpz8hnsPP07q9/giphy.gif)
 
-    @keyframes bounce {
-      0%, 100% {
-        transform: translateY(0);
-      }
-      50% {
-        transform: translateY(-30px);
-      }
-    }
-  </style>
-</head>
-<body>
-  <img class="pikachu" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" alt="Pikachu">
-</body>
-</html>
 
 
 

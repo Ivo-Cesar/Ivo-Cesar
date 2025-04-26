@@ -1,6 +1,7 @@
-# Pikachu animado!
+# Pikachu SVG animado
 
-![Pikachu](https://media.giphy.com/media/I3eVhMpz8hnsPP07q9/giphy.gif)
+<img src="https://raw.githubusercontent.com/eduardopessoa/pikachu-gif/main/pikachu.svg" width="200px">
+
 
 
 

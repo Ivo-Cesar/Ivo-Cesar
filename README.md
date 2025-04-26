@@ -1,6 +1,9 @@
-# Pikachu SVG animado
 
-<img src="https://raw.githubusercontent.com/eduardopessoa/pikachu-gif/main/pikachu.svg" width="200px">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eduardopessoa/pikachu-gif/main/pikachu-electric.svg" width="200px" />
+</p>
+
 
 
 

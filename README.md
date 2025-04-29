@@ -1,13 +1,3 @@
-# Pikachu animado
-
-<p align="center">
-  <img src="https://media.giphy.com/media/I3eVhMpz8hnsPP07q9/giphy.gif" width="200px" />
-</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eduardopessoa/pikachu-gif/main/pikachu-electric.svg" width="200px" />
-</p>
 
 
 
